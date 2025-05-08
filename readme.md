@@ -1,6 +1,8 @@
 # AyED
 -**Nombre y Apellido**: Lucas Franco Trabalon. 
--**Codigo de Comision**: K1202. 
+
+-**Codigo de Comision**: K1202.
+ 
 -**g++ --version**: 
 g++ (MinGW.org GCC-6.3.0-1) 6.3.0
 Copyright (C) 2016 Free Software Foundation, Inc.
