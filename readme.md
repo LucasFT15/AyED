@@ -1,5 +1,5 @@
 # AyED
--**Nombre/s **: Lucas Franco. 
+-**Nombre/s**: Lucas Franco. 
 
 -**Apellido**: Trabalon.
 
