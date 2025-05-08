@@ -1,5 +1,7 @@
 # AyED
--**Nombre y Apellido**: Lucas Franco Trabalon. 
+-**Nombre/s **: Lucas Franco. 
+
+-**Apellido**: Trabalon.
 
 -**Codigo de Comision**: K1202.
  
